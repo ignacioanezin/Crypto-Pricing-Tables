@@ -6,7 +6,7 @@
   <h3 align="center">Crypto-Pricing-Tables</h3>
 
   <p align="center">
-    Beatiful pricing tables for your Crypto venture!
+    Beautiful pricing table for your Crypto venture!
     <br />
     <a href="https://ignacioanezin.github.io/Crypto-Pricing-Tables/"><strong>View Live Demo »</strong></a>
   </p>
