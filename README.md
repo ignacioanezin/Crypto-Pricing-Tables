@@ -86,7 +86,7 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTACT -->
 ## Contact
 
-Ignacio Anezin - [Linkedin](https://www.linkedin.com/in/ignacioanezin/) [Twitter](https://twitter.com/ignacioanezin)
+Ignacio Anezin - [Linkedin](https://www.linkedin.com/in/ignacioanezin/) - [Twitter](https://twitter.com/ignacioanezin)
 
 
 <!-- ACKNOWLEDGEMENTS -->
