@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-pricing-tables",
+  "name": "crypto-pricing-tables",
   "version": "1.0.0",
   "description": "Pricing table built with HTML & CSS",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ignacioanezin/responsive-pricing-tables.git"
+    "url": "git+https://github.com/ignacioanezin/Crypto-Pricing-Tables.git"
   },
   "author": "Iganacio Anezin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ignacioanezin/responsive-pricing-tables/issues"
+    "url": "https://github.com/ignacioanezin/Crypto-Pricing-Tables/issues"
   },
-  "homepage": "https://ignacioanezin.github.io/responsive-pricing-tables"
+  "homepage": "https://ignacioanezin.github.io/Crypto-Pricing-Tables"
 }
