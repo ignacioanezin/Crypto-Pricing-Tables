@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "node-sass src/scss/main.scss src/css/main.css --watch",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
