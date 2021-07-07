@@ -1,0 +1,26 @@
+{
+  "name": "bitcoin-pricing-tables",
+  "version": "1.0.0",
+  "description": "Pricing table built with HTML & CSS",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node-sass src/scss/main.scss src/css/main.css --watch",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacioanezin/responsive-pricing-tables.git"
+  },
+  "author": "Iganacio Anezin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacioanezin/responsive-pricing-tables/issues"
+  },
+  "homepage": "https://ignacioanezin.github.io/responsive-pricing-tables"
+}
